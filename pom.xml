@@ -21,7 +21,7 @@
             			<apiSource>
                 			<springmvc>true</springmvc>
                 			<locations>
-                    			io.swagger.sample
+                    			io.swagger.sample.resource
          		       		</locations>
          		       		 <schemes>
                     			http,https
@@ -32,8 +32,8 @@
                     			<title>Swagger Maven Plugin Sample</title>
                     			<version>v1</version>
                    			 </info>
-                			 <outputPath>swagger/generated/document.html</outputPath>
-                			 <swaggerDirectory>swagger/generated/swagger-ui</swaggerDirectory>
+                			 <outputPath>target/swagger/document.html</outputPath>
+                			 <swaggerDirectory>target/swagger/swagger-ui</swaggerDirectory>
     					</apiSource>
         			</apiSources>
     			</configuration>
