@@ -10,7 +10,7 @@
     </prerequisites>
 
     <build>
-        <finalName>${project.artifactId}-${project.version}</finalName>    
+        <finalName>aaboot</finalName>    
         <plugins>
         	<plugin>
     			<groupId>com.github.kongchen</groupId>

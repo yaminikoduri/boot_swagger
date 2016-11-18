@@ -1,0 +1,17 @@
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/exception/BadRequestException.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/Application.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/models/Order.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/resource/AbstractResource.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/resource/StoreResource.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/data/StoreData.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/data/PetData.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/models/ApiResponse.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/exception/ApiException.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/data/UserData.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/models/Category.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/exception/NotFoundException.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/models/User.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/utils/SimpleCORSFilter.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/models/Pet.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/resource/PetResource.java
+/Users/jwkidd3/spring_boot_swagger/src/main/java/io/swagger/sample/models/Tag.java
