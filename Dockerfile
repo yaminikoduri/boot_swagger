@@ -1,4 +1,4 @@
-FROM centos:7.4
+FROM centos:7.4.1708
 RUN yum update -y
 RUN yum install java-1.8.0-openjdk -y
 ADD target/aaboot.jar /product/aaboot.jar
